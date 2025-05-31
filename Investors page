@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <title>Exchange Edge | Investors</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- ===== HEADER / NAV ===== -->
+  <header>
+    <div class="container">
+      <a href="index.html" class="logo">Exchange Edge</a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="careers.html">Careers</a></li>
+          <li><a href="investors.html" class="active">Investors</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== INVESTOR OVERVIEW ===== -->
+  <section class="section section-dark">
+    <div class="container">
+      <h2>Investor Information</h2>
+      <p>
+        At Exchange Edge, we’re building the next‐generation crypto exchange platform—focused on security,
+        scalability, and user‐centric features. We offer institutional-grade trading tools, a streamlined
+        KYC/AML process, and 24/7 support. Whether you’re an angel investor, a VC firm, or a strategic partner,
+        Exchange Edge presents a compelling opportunity in one of the fastest‐growing markets today.
+      </p>
+
+      <div class="card-grid">
+        <!-- Card 1: Market Opportunity -->
+        <div class="card">
+          <h3>Market Opportunity</h3>
+          <p>
+            The global cryptocurrency market is projected to exceed $5 trillion by 2026. With a growing user
+            base and rising institutional interest, there’s a massive demand for secure, reliable exchanges.
+          </p>
+        </div>
+        <!-- Card 2: Unique Advantage -->
+        <div class="card">
+          <h3>Unique Advantage</h3>
+          <p>
+            Exchange Edge uses proprietary matching engines and a multi-tier security architecture, offering
+            lightning-fast trade execution and <br/>industry-leading uptime.
+          </p>
+        </div>
+        <!-- Card 3: Revenue Model -->
+        <div class="card">
+          <h3>Revenue Model</h3>
+          <p>
+            - **Trading Fees**: Competitive fee structure for both spot and derivatives trading.<br/>
+            - **Staking & Lending**: Earn from liquidity pools and margin interest.<br/>
+            - **Premium Services**: White-label solutions for institutional partners.
+          </p>
+        </div>
+        <!-- Card 4: Roadmap & Team -->
+        <div class="card">
+          <h3>Roadmap & Team</h3>
+          <p>
+            - Q2 2025: Launch mobile app (iOS & Android).<br/>
+            - Q4 2025: Introduce futures & options trading.<br/>
+            <br/>
+            Our founding team comprises veterans from Binance, Coinbase, and top blockchain research labs.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CALL TO ACTION ===== -->
+  <section class="section section-light">
+    <div class="container text-center">
+      <h2>Ready to Invest?</h2>
+      <p>
+        To review our full pitch deck, financial projections, and tokenomics (if applicable), email us at
+        <a href="mailto:investors@exchangeedge.com">investors@exchangeedge.com</a>. We look forward to
+        partnering with you on this revolutionary journey.
+      </p>
+      <a href="mailto:investors@exchangeedge.com" class="btn">Request Pitch Deck</a>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <div class="container">
+      <p>© 2025 Exchange Edge. All Rights Reserved.</p>
+      <p>
+        Follow us:
+        <a href="#" target="_blank">Twitter</a> |
+        <a href="#" target="_blank">LinkedIn</a> |
+        <a href="#" target="_blank">Telegram</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
