@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <title>Exchange Edge | Contact</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- ===== HEADER / NAV ===== -->
+  <header>
+    <div class="container">
+      <a href="index.html" class="logo">Exchange Edge</a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="careers.html">Careers</a></li>
+          <li><a href="investors.html">Investors</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== CONTACT SECTION ===== -->
+  <section class="section section-light">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p class="mb-20">
+        Have questions about careers, investor opportunities, or general inquiries? Fill out the form below or
+        drop us an email directly at <a href="mailto:info@exchangeedge.com">info@exchangeedge.com</a>.
+      </p>
+
+      <form action="mailto:info@exchangeedge.com" method="post" enctype="text/plain">
+        <label for="name">Name:</label><br />
+        <input
+          type="text"
+          id="name"
+          name="Your Name"
+          placeholder="Your full name"
+          style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
+        /><br />
+
+        <label for="email">Email:</label><br />
+        <input
+          type="email"
+          id="email"
+          name="Your Email"
+          placeholder="you@example.com"
+          style="width: 100%; padding: 8px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
+        /><br />
+
+        <label for="message">Message:</label><br />
+        <textarea
+          id="message"
+          name="Your Message"
+          rows="5"
+          placeholder="How can we help you?"
+          style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"
+        ></textarea><br />
+
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <div class="container">
+      <p>© 2025 Exchange Edge. All Rights Reserved.</p>
+      <p>
+        Follow us:
+        <a href="#" target="_blank">Twitter</a> |
+        <a href="#" target="_blank">LinkedIn</a> |
+        <a href="#" target="_blank">Telegram</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
